@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074558350037",
+    "project_id": "authfrumos",
+    "storage_bucket": "authfrumos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074558350037:android:15e1b29f8f456908e6a85c",
+        "android_client_info": {
+          "package_name": "com.example.qrcodeexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074558350037-pfgvoi0iib3iuv875fhi9a3oegg2o789.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrcodeexample",
+            "certificate_hash": "cc72c8e4e2df81943e5bc4c9b4df3873a21da78e"
+          }
+        },
+        {
+          "client_id": "1074558350037-p8rsk1iqsrbq39fu2k77ge04ikj2jlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQwLnM3efNo2jdRr6M-6peyK8gwTUU1oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074558350037-p8rsk1iqsrbq39fu2k77ge04ikj2jlbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
